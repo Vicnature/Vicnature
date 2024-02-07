@@ -4,7 +4,7 @@
 **<h3>`Simplified Complexities,Perfected Functionalites`</h3>**
 
 
-Amid difficulties, we simplify complexity, making things easier for everyone. We turn chaos into order, bringing clarity to the journey. In challenges, we find creativity, emerging stronger and more capable.
+With tact and mastery, we clarify sophistications, making things easier for everyone. We turn chaos into order, bringing comprehension to the journey. In challenges, we find creativity, emerging stronger and more capable.
 
 ---
 

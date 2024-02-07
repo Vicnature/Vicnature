@@ -1,5 +1,5 @@
 # 🏄‍♂️ vicnature
-<h1 align="center">VISIONARY LIBERATOR</h1>
+
 
 **`Liberation through tech`**
 
@@ -22,7 +22,7 @@ In the vast landscape of technology, lies a passion for the pursuit of freedom. 
 
 
 <details>
- <summary><h3>Code of Freedom</h3></summary>
+ <summary><h1 align="center">VISIONARY LIBERATOR</h1></summary>
    In every code repository lies the blueprint of a visionary mind. Guided by the spirit of innovation, the bearer of this repository envisions a future where technology becomes the bridge to boundless opportunities and untold freedoms, enriching the lives of all who journey through its digital realm
 
    

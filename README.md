@@ -1,7 +1,7 @@
 # 🏄‍♂️ vicnature
 
 
-**`Liberation through tech`**
+**<h3>`Code of freedom`</h3>**
 
 
 In the vast landscape of technology, lies a passion for the pursuit of freedom. Through code, new realms of possibility are unlocked, where innovation thrives and boundaries dissolve. Join on GitHub as we harness the transformative power of technology to shape a world where freedom reigns supreme.

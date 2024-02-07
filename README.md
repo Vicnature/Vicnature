@@ -1,8 +1,8 @@
-# 🏄‍♂️ Forrest Knight
+# 🏄‍♂️ vicnature
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Liberation through tech`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+In the vast landscape of technology, lies a passion for the pursuit of freedom. Through code, new realms of possibility are unlocked, where innovation thrives and boundaries dissolve. Join on GitHub as we harness the transformative power of technology to shape a world where freedom reigns supreme.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">

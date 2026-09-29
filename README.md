@@ -1,44 +1,44 @@
 # 🏄‍♂️ vicnature
 
-
-**<h3>`Simplified Complexities,Perfected Functionalites`</h3>**
-
-
-With tact and mastery, we clarify sophistications, making things easier for everyone. We turn chaos into order, bringing comprehension to the journey. In challenges, we find creativity, emerging stronger and more capable.
+**`Simplified Complexities, Perfected Functionalities`**
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
-<hr>
-- 🌱 I’m currently learning **Laravel**
-<br />
+### 🛠️ Tech Stack
 
+**Git & GitHub**
 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
+**CI/CD**
 
+![CI/CD](https://img.shields.io/badge/CI%2FCD-4A154B?style=for-the-badge&logo=circleci&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<details>
- <summary><h1 align="center">VISIONARY LIBERATOR</h1></summary>
-   In every code repository lies the blueprint of a visionary mind. Guided by the spirit of innovation, the bearer of this repository envisions a future where technology becomes the bridge to boundless opportunities and untold freedoms, enriching the lives of all who journey through its digital realm
+**Backend Development**
 
-   
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vicnature&label=Profile%20views&color=0e75b6&style=flat" alt="vicnature" /> </p>
+---
 
+### 📊 GitHub Stats
 
-
-
-<p align="left">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vicnature&show_icons=true&theme=default&hide_border=true" alt="vicnature's GitHub stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vicnature&theme=default&hide_border=true" alt="vicnature's GitHub streak" height="165" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vicnature&layout=compact&hide_border=true" alt="Top Languages" height="165" />
+</p>
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vicnature&show_icons=true&locale=en&layout=compact" alt="vicnature" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vicnature&show_icons=true&locale=en" alt="vicnature" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vicnature&" alt="vicnature" /></p>
-
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vicnature&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
